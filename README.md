@@ -66,9 +66,6 @@
             <h3>SHOP ACCOUNTING</h3>
             <p>SHOP ACCOUNTING - A one stop solution to all small groceries shop price.</p>
             <p><strong>Technologies used: HTML,CSS,JS,React,Java</strong></p>
-             
-        </section>
-         
     </section>
         <section>
             <h2><u>Achiements:</u></h2>  
@@ -92,6 +89,6 @@
             </ul>
          </section>
     </main>
-    <footer>This iste bwlongs to zakir &copy; &#128514;</footer>
+    <footer>This site belongs to zakir &copy; &#128514;</footer>
 </body>
 </html>
